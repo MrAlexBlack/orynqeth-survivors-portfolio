@@ -12,7 +12,7 @@ Static, dependency-free GitHub Pages site. This repository is **the portfolio pr
 
 - Optionally replace the GitHub profile button with your preferred contact or LinkedIn URL.
 - Add a verified Windows release link once the final build is uploaded (do not link the GitHub Pages repo as if it hosted the game).
-- Add gameplay video and screenshots of the actual Unity Editor tools. The current Portfolio Capture panel is explicitly marked as an illustration.
+- Add a short gameplay video. The page now contains actual Unity Editor captures of Portfolio Capture, Validation Dashboard and Environment Settings.
 - Statistics and Collection screenshots use a **portfolio demo profile**, not real player results.
 - Check all copy and attribution. AI-assisted coding and assets are disclosed in the Overview.
 
