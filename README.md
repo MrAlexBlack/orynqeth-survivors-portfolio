@@ -15,6 +15,7 @@ Static, dependency-free GitHub Pages site. This repository is **the portfolio pr
 - Add a short gameplay video. The page now contains actual Unity Editor captures of Portfolio Capture, Validation Dashboard and Environment Settings.
 - Statistics and Collection screenshots use a **portfolio demo profile**, not real player results.
 - Check all copy and attribution. AI-assisted coding and assets are disclosed in the Overview.
+- The case explicitly separates personal design/QA ownership from AI-assisted C# and art implementation. The public GitHub repository is the website only, not the Unity game source.
 - The hero illustration (`images/hero-forest-clean.png`) is AI-generated website artwork based on the game's visual direction, not an in-game screenshot. Actual gameplay and editor captures are labelled in their respective sections.
 
 No build step is necessary; open `index.html` in a browser for a quick local preview.
